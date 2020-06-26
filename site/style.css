@@ -1,0 +1,65 @@
+/*
+sectoin{
+    clear: right;
+}
+*/
+body{
+    margin:0px;
+    padding:0px;
+}
+
+div{
+    border: 1px solid black;
+    width:800px;
+    background-color: gray;
+    float: left;
+    margin-left: 10px;
+/*    padding: 10px;*/
+    font-size: 22px;
+    margin-top: 20px
+}
+
+p{
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 75%;
+    float: right;
+}
+#p1{
+    background-color: red;
+/*    margin-left: 300px;*/
+}
+#p2{
+    background-color: pink;
+    margin-left: 300px;
+}
+#p3{
+    background-color: mintcream;
+    margin-left: 300px;
+}
+
+h2{
+    text-align: center;
+}
+
+/*
+@media (min-width:992px){ 
+    div{
+        width:400px;
+    }
+    section{
+        clear: right;
+    }
+}
+
+
+*/
+
+
+
+
+
+
+
